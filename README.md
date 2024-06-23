@@ -5,4 +5,4 @@ Text Summarization is a natural language processing (NLP) task that creates a co
 
 ![pdf_summarizer](img/pdf_summarizer.png)
 
-<div><a href=" ">Web Application</a></div>
+<div><a href="https://shihjen-pdf-quicksummary-app-gxuzd9.streamlit.app/">⏩ Web Application</a></div>
