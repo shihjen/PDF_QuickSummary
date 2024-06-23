@@ -1,7 +1,7 @@
 streamlit
 streamlit-lottie
 python-dotenv
-pypdf
+PyPDF2
 langchain
 langchain_groq
 langchain_community
