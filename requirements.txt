@@ -1,0 +1,9 @@
+streamlit
+streamlit-lottie
+python-dotenv
+pypdf
+langchain
+langchain_groq
+langchain_community
+langchain_core
+langchain-text-splitters
